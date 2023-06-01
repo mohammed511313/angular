@@ -3670,10 +3670,10 @@
   dependencies:
     "@types/node" "*"
 
-"@types/systemjs@0.19.32":
-  version "0.19.32"
-  resolved "https://registry.yarnpkg.com/@types/systemjs/-/systemjs-0.19.32.tgz#e9204c4cdbc8e275d645c00e6150e68fc5615a24"
-  integrity sha512-8jtvyxk9DI+KTQ/uh8iMW3FqCG2JnBPO6tEb2Z9r+4NDNpdBwOLjwIAGnprgyX/4yA6sgnc3sGqNpApZEJsXFg==
+"@types/systemjs@0.20.8":
+  version "0.20.8"
+  resolved "https://registry.yarnpkg.com/@types/systemjs/-/systemjs-0.20.8.tgz#64d337071004392f1c66b0c4af177a06bf597d35"
+  integrity sha512-LO1LLPfKt5A/fqD4cxUHi1KCEQdwCgkHlT7zOIyFdWuwvZ2tDL8wUDbKY4YGOEsqifhzV6l5vE3aHJpYfwHZIg==
 
 "@types/tmp@^0.2.1":
   version "0.2.3"
