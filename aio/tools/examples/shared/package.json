@@ -28,7 +28,7 @@
     "@angular/localize": "^16.0.0",
     "@angular/platform-browser": "^16.0.0",
     "@angular/platform-browser-dynamic": "^16.0.0",
-    "@angular/platform-server": "^16.0.0",
+    "@angular/platform-server": "^18.2.14",
     "@angular/router": "^16.0.0",
     "@angular/service-worker": "^16.0.0",
     "@angular/upgrade": "^16.0.0",
